@@ -1,1 +1,1 @@
-# travelogue-python-utils
+# python-utils
