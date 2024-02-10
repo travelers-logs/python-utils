@@ -1,6 +1,5 @@
 import logging
 import time
-import os
 
 def init_logger():
    # Create a formatter with a custom date and time format
@@ -17,5 +16,3 @@ def init_logger():
     logger.setLevel(logging.INFO)
 
     return logger
-
-print("test" + __name__)
