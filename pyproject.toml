@@ -1,0 +1,5 @@
+[project]
+name = "utils"
+version = "v0.0.2"
+description = "Library for common utils"
+authors = ["Ryan"]
