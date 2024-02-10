@@ -1,6 +1,6 @@
 [project]
 name = "utils"
-version = "v0.0.2"
+version = "v0.0.4"
 description = "Library for common utils"
 authors = [
     { name = "Ryan", email = "ryan.bui@gmail.com" }
