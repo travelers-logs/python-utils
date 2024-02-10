@@ -1,5 +1,7 @@
 # python-utils
 
+WIP. This package does not work yet
+
 # Repo Structure
 ```
 backend/
