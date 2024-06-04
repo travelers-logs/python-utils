@@ -13,4 +13,4 @@ requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"
 
 [[tool.poetry.packages]]
-include = "python-utils"
+include = "utils"
