@@ -6,8 +6,10 @@ WIP. This package does not work yet
 ```
 python-utils/
 │
-├── utils/
+├── python_utils/
 │   ├── __init__.py
-│   └── logger.py
+│   └── logging/
+|       ├── __init__.py
+│       └── logging.py
 │
 └── Dockerfile
