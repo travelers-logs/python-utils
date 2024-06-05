@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "python-utils"
-version = "v0.0.1"
+version = "v0.0.2"
 description = "SDK for internal python logging"
 authors = ["Backend Team <https://www.notion.so/ryantb/Team-9e9105e06eb24dd8b16bae99266ea08b?pvs=4#610c98dbcb5140f9bb806e914dd9cac6>"]
 readme = "README.md"
