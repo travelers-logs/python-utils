@@ -4,10 +4,12 @@ WIP. This package does not work yet
 
 # Repo Structure
 ```
-backend/
+python-utils/
 │
-├── utils/
+├── python_utils/
 │   ├── __init__.py
-│   └── security.py
+│   └── logging/
+|       ├── __init__.py
+│       └── logging.py
 │
 └── Dockerfile
