@@ -14,7 +14,7 @@ def init_logger():
     global _logger
     if _logger is None:
         # Create a formatter with a custom date and time format
-        formatter = logging.Formatter('[%(asctime)s] [%(levelname)s] [%(pathname)s] | %(message)s', datefmt='%Y-%m-%d %H:%M:%S UTC')
+        formatter = logging.Formatter('[%(asctime)s] [%(levelname)s] [%(pathname)s] [%(funcName)s] | %(message)s', datefmt='%Y-%m-%d %H:%M:%S UTC')
         formatter.converter = time.gmtime
 
         # Create a stream handler and set the formatter
