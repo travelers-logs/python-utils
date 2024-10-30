@@ -1,6 +1,6 @@
 import time
 
-from logging.logging import init_logger
+from python_utils.logging.logging import init_logger
 
 logger = init_logger()
 
