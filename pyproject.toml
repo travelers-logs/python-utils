@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "python-utils-traveler"
-version = "0.0.5"
+version = "0.0.6"
 description = "SDK for internal python logging"
 authors = ["Ryan Bui <ryan.bui@gmail.com>"]
 readme = "README.md"
