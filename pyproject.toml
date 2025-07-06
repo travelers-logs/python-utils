@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "python-utils-traveler"
-version = "0.0.8"
-description = "SDK for internal python logging"
+version = "0.0.12"
+description = "Personal python utilities"
 authors = ["Ryan Bui <ryan.bui@gmail.com>"]
 readme = "README.md"
 
