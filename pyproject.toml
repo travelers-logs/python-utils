@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "python-utils-traveler"
-version = "0.0.12"
+version = "0.0.13"
 description = "Personal python utilities"
 authors = ["Ryan Bui <ryan.bui@gmail.com>"]
 readme = "README.md"
